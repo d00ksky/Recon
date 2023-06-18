@@ -18,3 +18,5 @@ This simple script just downloads all js files it can find in url.
 This script downloads all js files and then in separate txt file
 provides you with all endpoints it found with names of files.
 It also creates txt file with all comments from js files.
+
+
